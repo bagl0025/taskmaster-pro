@@ -6,7 +6,7 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ---
-Taaskmaster-pro is a Kanban style task organizer optimized to run on all screen sizes. It uses local storage to store your tasks between sessions. It also automatically refreshes to update the task status.
+Taskmaster-pro is a Kanban style task organizer optimized to run on all screen sizes. It uses local storage to store your tasks between sessions. It also automatically refreshes to update the task status.
 
 ## User Interface
 <!-- ![Taskmaster-pro screenshot](./assets/images/taskmaster.png){width: 100px;} -->
