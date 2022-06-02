@@ -16,7 +16,7 @@ Taskmaster-pro is a Kanban style task organizer optimized to run on all screen s
 You can create new tasks and delete all tasks by using the "Add Tasks" and "Delete All Tasks" buttons. Tasks can be dragged and dropped to reorder and/or delete. Dates and task names can be edited by clicking on them. Tasks will turn red when over due and yello when they are within two days of being due.
 
 ## Links to website and Github
-[Password Generator](https://bagl0025.github.io/taskmaster-pro/)
+[Taskmaster-Pro](https://bagl0025.github.io/taskmaster-pro/)
 
 [Github Repository](https://github.com/bagl0025/PasswordGenerator.git)
 
